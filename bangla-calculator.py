@@ -1,4 +1,4 @@
-#বাংলা কেল্কুলেটার বানানোর চেষ্টা
+#simply bangla calculator
 
 operation = input('''
 
